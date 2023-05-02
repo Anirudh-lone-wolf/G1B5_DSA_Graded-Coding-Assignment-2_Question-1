@@ -9,5 +9,6 @@
   Note: A floor cannot be assembled in the building until all floors larger in size are placed.
   As a friend he wants you to build a small program that will help him analyze the construction process, to avoid manual work and errors.
   
-* This project has 2 packages : com.glproject2.driver- this has the driver class. 
-*                               com.glproject2.solution- this has the class containing the contruction process code(STACK DS is used)
+* This project has 2 packages : 
+   *com.glproject2.driver- this has the driver class. 
+   *com.glproject2.solution- this has the class containing the contruction process code(STACK DS is used)
