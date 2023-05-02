@@ -10,5 +10,5 @@
   As a friend he wants you to build a small program that will help him analyze the construction process, to avoid manual work and errors.
   
 * This project has 2 packages : 
-   *com.glproject2.driver- this has the driver class. 
-   *com.glproject2.solution- this has the class containing the contruction process code(STACK DS is used)
+   * com.glproject2.driver- this has the driver class. 
+   * com.glproject2.solution- this has the class containing the contruction process code(STACK DS is used)
