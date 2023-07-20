@@ -10,7 +10,7 @@ public class DriverApp {
 			System.out.println("enter the total no of floors in the building");
 			int noOfFloors = sc.nextInt();
 
-			int[] sizeOfFloors = new int[noOfFloors]; //creating an array to store the size of every floor in the Skyscraper
+			int[] sizeOfFloors = new int[noOfFloors]; //creating an array to store the size of each floor in the Skyscraper
 
 			int i;
 			for(i =0; i < sizeOfFloors.length; i++) {
