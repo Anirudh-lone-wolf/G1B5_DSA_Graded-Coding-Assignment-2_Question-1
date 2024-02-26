@@ -12,7 +12,8 @@
    * <b>com.glproject2.driver</b>- this has the driver class. 
    * <b>com.glproject2.solution</b>- this has the class containing the contruction process code(STACK DS is used)
 
-* Concepts : 
+* Concepts :
+   * <b>Data structures</b> - Essential components that help organize and store data efficiently in computer memory. They provide a way to manage and manipulate data effectively, enabling faster access, insertion, and deletion operations. Common data structures include arrays, linked lists, stacks, queues, trees, and graphs , each serving specific purposes based on the requirements of the problem at hand. Understanding data structures is fundamental for designing efficient algorithms and optimizing software performance. 
    * <b>DSA</b> - Data Structures and Algorithms (DSA) is a fundamental part of Computer Science that teaches you how to think and solve complex problems systematically. Using the right data structure and algorithm makes your program run faster, especially when working with lots of data.
    * <b>Stack</b> - Stack is a linear data structure that follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). LIFO implies that the element that is inserted last, comes out first and FILO implies that the element that is inserted first, comes out last.
    
